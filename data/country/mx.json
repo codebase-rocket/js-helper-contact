@@ -1,0 +1,124 @@
+{
+  "cn": "Mexico",
+  "ccc": "52",
+  "plmin": 10,
+  "plmax": 10,
+  "pclmin": 5,
+  "pclmax": 5,
+  "mtc": true,
+  "cur": "mxn",
+  "sd": {
+    "ag": {
+      "sdn": "Aguascalientes"
+    },
+    "bc": {
+      "sdn": "Baja California"
+    },
+    "bs": {
+      "sdn": "Baja California Sur"
+    },
+    "cm": {
+      "sdn": "Campeche"
+    },
+    "cs": {
+      "sdn": "Chiapas"
+    },
+    "ch": {
+      "sdn": "Chihuahua"
+    },
+    "co": {
+      "sdn": "Coahuila"
+    },
+    "cl": {
+      "sdn": "Colima"
+    },
+    "df": {
+      "sdn": "Mexico City"
+    },
+    "dg": {
+      "sdn": "Durango"
+    },
+    "gt": {
+      "sdn": "Guanajuato"
+    },
+    "gr": {
+      "sdn": "Guerrero"
+    },
+    "hg": {
+      "sdn": "Hidalgo"
+    },
+    "ja": {
+      "sdn": "Jalisco"
+    },
+    "em": {
+      "sdn": "México"
+    },
+    "mi": {
+      "sdn": "Michoacán"
+    },
+    "mo": {
+      "sdn": "Morelos"
+    },
+    "na": {
+      "sdn": "Nayarit"
+    },
+    "nl": {
+      "sdn": "Nuevo León"
+    },
+    "oa": {
+      "sdn": "Oaxaca"
+    },
+    "pu": {
+      "sdn": "Puebla"
+    },
+    "qt": {
+      "sdn": "Querétaro"
+    },
+    "qr": {
+      "sdn": "Quintana Roo"
+    },
+    "sl": {
+      "sdn": "San Luis Potosí"
+    },
+    "si": {
+      "sdn": "Sinaloa"
+    },
+    "so": {
+      "sdn": "Sonora"
+    },
+    "tb": {
+      "sdn": "Tabasco"
+    },
+    "tm": {
+      "sdn": "Tamaulipas"
+    },
+    "tl": {
+      "sdn": "Tlaxcala"
+    },
+    "ve": {
+      "sdn": "Veracruz"
+    },
+    "yu": {
+      "sdn": "Yucatán"
+    },
+    "za": {
+      "sdn": "Zacateca"
+    }
+  },
+  "tz": [
+    "Mexico/General",
+    "America/Ensenada",
+    "America/Santa_Isabel",
+    "America/Bahia_Banderas",
+    "America/Cancun",
+    "America/Chihuahua",
+    "America/Tijuana",
+    "America/Hermosillo",
+    "America/Matamoros",
+    "America/Mazatlan",
+    "America/Merida",
+    "America/Mexico_City",
+    "America/Monterrey",
+    "America/Ojinaga"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "cn": "United Arab Emirates",
+  "ccc": "971",
+  "plmin": 8,
+  "plmax": 9,
+  "pclmin": null,
+  "pclmax": null,
+  "mtc": true,
+  "cur": "AED",
+  "sd": {
+    "ae": {
+      "sdn": "Dubai"
+    }
+  },
+  "tz": ["Asia/Dubai"]
+}

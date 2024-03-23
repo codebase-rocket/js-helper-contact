@@ -1,0 +1,16 @@
+{
+  "cn": "Saudi Arabia",
+  "ccc": "966",
+  "plmin": 9,
+  "plmax": 9,
+  "pclmin": 5,
+  "pclmax": 5,
+  "mtc": true,
+  "cur": "SAR",
+  "sd": {
+    "sa": {
+      "sdn": "Saudi Arabia"
+    }
+  },
+  "tz": ["Asia/Riyadh"]
+}

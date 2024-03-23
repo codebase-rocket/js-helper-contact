@@ -1,0 +1,30 @@
+{
+  "name": "@codebase-rocket/js-helper-contact",
+  "description": "Boilerplate library. Contains functions related to Phone, Email and Address",
+  "version": "1.0.2",
+  "main": "contact.js",
+  "keywords": [],
+  "private": false,
+  "license": "Private",
+  "author": {
+    "name": "Shivanshu Jindal"
+  },
+  "contributors": [
+    {
+      "name": "Himanshu"
+    },
+    {
+      "name": "Vikram Singh Koshyari"
+    }
+  ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "devDependencies": {
+    "js-helper-utils": "npm:@codebase-rocket/js-helper-utils@^1.0.0",
+    "js-helper-debug": "npm:@codebase-rocket/js-helper-debug@^1.0.0",
+    "js-helper-geo": "npm:@codebase-rocket/js-helper-geo@^1.0.0"
+  }
+}

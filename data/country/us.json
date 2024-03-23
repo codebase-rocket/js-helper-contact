@@ -1,0 +1,221 @@
+{
+  "cn": "United States",
+  "ccc": "1",
+  "plmin": 10,
+  "plmax": 10,
+  "pclmin": 5,
+  "pclmax": 5,
+  "mtc": false,
+  "cur": "usd",
+  "sd": {
+    "al": {
+        "sdn": "Alabama"
+    },
+    "as": {
+        "sdn": "American Samoa"
+    },
+    "ak": {
+        "sdn": "Alaska"
+    },
+    "az": {
+        "sdn": "Arizona"
+    },
+    "ar": {
+        "sdn": "Arkansas"
+    },
+    "ca": {
+        "sdn": "California"
+    },
+    "co": {
+        "sdn": "Colorado"
+    },
+    "ct": {
+        "sdn": "Connecticut"
+    },
+    "dc": {
+        "sdn": "District of Columbia"
+    },
+    "de": {
+        "sdn": "Delaware"
+    },
+    "fl": {
+        "sdn": "Florida"
+    },
+    "ga": {
+        "sdn": "Georgia"
+    },
+    "gu": {
+        "sdn": "Guam"
+    },
+    "hi": {
+        "sdn": "Hawaii"
+    },
+    "id": {
+        "sdn": "Idaho"
+    },
+    "il": {
+        "sdn": "Illinois"
+    },
+    "in": {
+        "sdn": "Indiana"
+    },
+    "ia": {
+        "sdn": "Iowa"
+    },
+    "ks": {
+        "sdn": "Kansas"
+    },
+    "ky": {
+        "sdn": "Kentucky"
+    },
+    "la": {
+        "sdn": "Louisiana"
+    },
+    "me": {
+        "sdn": "Maine"
+    },
+    "md": {
+        "sdn": "Maryland"
+    },
+    "ma": {
+        "sdn": "Massachusetts"
+    },
+    "mi": {
+        "sdn": "Michigan"
+    },
+    "mn": {
+        "sdn": "Minnesota"
+    },
+    "ms": {
+        "sdn": "Mississippi"
+    },
+    "mo": {
+        "sdn": "Missouri"
+    },
+    "mt": {
+        "sdn": "Montana"
+    },
+    "mp": {
+        "sdn": "Northern Mariana Islands"
+    },
+    "ne": {
+        "sdn": "Nebraska"
+    },
+    "nv": {
+        "sdn": "Nevada"
+    },
+    "nh": {
+        "sdn": "New Hampshire"
+    },
+    "nj": {
+        "sdn": "New Jersey"
+    },
+    "nm": {
+        "sdn": "New Mexico"
+    },
+    "ny": {
+        "sdn": "New York"
+    },
+    "nc": {
+        "sdn": "North Carolina"
+    },
+    "nd": {
+        "sdn": "North Dakota"
+    },
+    "oh": {
+        "sdn": "Ohio"
+    },
+    "ok": {
+        "sdn": "Oklahoma"
+    },
+    "or": {
+        "sdn": "Oregon"
+    },
+    "pa": {
+        "sdn": "Pennsylvania"
+    },
+    "pr": {
+        "sdn": "Puerto Rico"
+    },
+    "ri": {
+        "sdn": "Rhode Island"
+    },
+    "sc": {
+        "sdn": "South Carolina"
+    },
+    "sd": {
+        "sdn": "South Dakota"
+    },
+    "tn": {
+        "sdn": "Tennessee"
+    },
+    "tx": {
+        "sdn": "Texas"
+    },
+    "ut": {
+        "sdn": "Utah"
+    },
+    "um": {
+        "sdn": "United States Minor Outlying Islands"
+    },
+    "vt": {
+        "sdn": "Vermont"
+    },
+    "vi": {
+        "sdn": "Virgin Islands, U.S."
+    },
+    "va": {
+        "sdn": "Virginia"
+    },
+    "wa": {
+        "sdn": "Washington"
+    },
+    "wv": {
+        "sdn": "West Virginia"
+    },
+    "wi": {
+        "sdn": "Wisconsin"
+    },
+    "wy": {
+        "sdn": "Wyoming"
+    }
+  },
+  "tz": [
+    "America/Atka",
+    "America/Shiprock",
+    "Navajo",
+    "America/Indiana/Indianapolis",
+    "America/Indianapolis",
+    "America/Louisville",
+    "Pacific/Johnston",
+    "America/Adak",
+    "America/Anchorage",
+    "America/Boise",
+    "America/Chicago",
+    "America/Denver",
+    "America/Detroit",
+    "America/Fort_Wayne",
+    "America/Indiana/Knox",
+    "America/Indiana/Marengo",
+    "America/Indiana/Petersburg",
+    "America/Indiana/Tell_City",
+    "America/Indiana/Vevay",
+    "America/Indiana/Vincennes",
+    "America/Indiana/Winamac",
+    "America/Juneau",
+    "America/Kentucky/Louisville",
+    "America/Kentucky/Monticello",
+    "America/Los_Angeles",
+    "America/Menominee",
+    "America/Metlakatla",
+    "America/New_York",
+    "America/Nome",
+    "America/North_Dakota/Beulah",
+    "America/North_Dakota/Center",
+    "America/North_Dakota/New_Salem",
+    "America/Phoenix",
+    "America/Sitka",
+    "America/Yakutat",
+    "Pacific/Honolulu"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "cn": "India",
+  "ccc": "91",
+  "plmin": 10,
+  "plmax": 10,
+  "pclmin": 6,
+  "pclmax": 6,
+  "mtc": true,
+  "cur": "inr",
+  "sd": {
+    "an": {
+      "sdn": "Andaman and Nicobar Islands"
+    },
+    "ap": {
+      "sdn": "Andhra Pradesh"
+    },
+    "ar": {
+      "sdn": "Arunachal Pradesh"
+    },
+    "as": {
+      "sdn": "Assam"
+    },
+    "br": {
+      "sdn": "Bihar"
+    },
+    "ch": {
+      "sdn": "Chandigarh"
+    },
+    "ct": {
+      "sdn": "Chhattisgarh"
+    },
+    "dh": {
+      "sdn": "Dadra and Nagar Haveli and Daman and Diu"
+    },
+    "dl": {
+      "sdn": "Delhi"
+    },
+    "ga": {
+      "sdn": "Goa"
+    },
+    "gj": {
+      "sdn": "Gujarat"
+    },
+    "hr": {
+      "sdn": "Haryana"
+    },
+    "hp": {
+      "sdn": "Himachal Pradesh"
+    },
+    "jk": {
+      "sdn": "Jammu and Kashmir"
+    },
+    "jh": {
+      "sdn": "Jharkhand"
+    },
+    "ka": {
+      "sdn": "Karnataka"
+    },
+    "kl": {
+      "sdn": "Kerala"
+    },
+    "ld": {
+      "sdn": "Lakshadweep"
+    },
+    "la": {
+      "sdn": "Ladakh"
+    },
+    "mp": {
+      "sdn": "Madhya Pradesh"
+    },
+    "mh": {
+      "sdn": "Maharashtra"
+    },
+    "mn": {
+      "sdn": "Manipur"
+    },
+    "ml": {
+      "sdn": "Meghalaya"
+    },
+    "mz": {
+      "sdn": "Mizoram"
+    },
+    "nl": {
+      "sdn": "Nagaland"
+    },
+    "or": {
+      "sdn": "Odisha"
+    },
+    "py": {
+      "sdn": "Puducherry"
+    },
+    "pb": {
+      "sdn": "Punjab"
+    },
+    "rj": {
+      "sdn": "Rajasthan"
+    },
+    "sk": {
+      "sdn": "Sikkim"
+    },
+    "tn": {
+      "sdn": "Tamil Nadu"
+    },
+    "tg": {
+      "sdn": "Telangana"
+    },
+    "tr": {
+      "sdn": "Tripura"
+    },
+    "up": {
+      "sdn": "Uttar Pradesh"
+    },
+    "ut": {
+      "sdn": "Uttarakhand"
+    },
+    "wb": {
+      "sdn": "West Bengal"
+    }
+  },
+  "tz": [
+    "Asia/Kolkata"
+  ]
+}

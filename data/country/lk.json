@@ -1,0 +1,14 @@
+{
+  "cn": "Sri Lanka",
+  "ccc": "94",
+  "plmin": 7,
+  "plmax": 7,
+  "pclmin": 5,
+  "pclmax": 5,
+  "mtc": true,
+  "cur": "lkr",
+  "sd": {},
+  "tz": [
+    "Asia/Colombo"
+  ]
+}
